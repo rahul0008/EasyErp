@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EasyErp</string>
+    <string name="easy_erp_assignment">Easy Erp Assignment</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_your_number">Enter Phone Number</string>
+    <string name="update">Update</string>
+    <string name="user_details">User Details</string>
+    <string name="first_name">First Name :</string>
+    <string name="last_name">Last Name :</string>
+    <string name="phone_no">Phone No :</string>
+    <string name="update_on">Updated On:</string>
+</resources>
